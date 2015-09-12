@@ -1,4 +1,4 @@
-package Practica1Moviles;
+package practica1moviles;
 //
 import java.util.ArrayList;
 import java.util.Scanner;
